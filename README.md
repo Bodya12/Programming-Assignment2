@@ -1,2 +1,2 @@
-# Programming-Assignment2
-Programming Assignment 2 (cachematrix.R)
+# Programming Assignment 2
+Caching the Inverse of a Matrix
